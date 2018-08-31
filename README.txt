@@ -1,0 +1,4 @@
+- Program works as Intended for a 9x9 soduku puzzle
+- tested inputs came from: http://lipas.uwasa.fi/~timan/sudoku/
+- No bugs known
+- 
